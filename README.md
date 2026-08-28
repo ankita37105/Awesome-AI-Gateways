@@ -70,6 +70,7 @@ Not sure where to start? Use this quick guide:
 | **[Requesty](https://www.requesty.ai/)** 🧭 | ~$3M Raised | 5% markup on model costs | 1,000 req/day on free models | Go-based OpenAI-compatible router for 600+ models across 30+ providers with cost/latency/availability-based routing, failover chains, prompt caching, BYOK, budget caps, RBAC, and EU data residency. |
 | **[Prism API](https://github.com/go165/prism-api-promo)** | Independent gateway | Usage-based | Google signup trial balance | Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options. |
 | **[RunAPI](https://runapi.ai)** | Independent gateway | Usage-based | — | OpenAI-compatible gateway for running image, video, music/audio, and model API jobs from one endpoint. |
+| **[XiuRouter](https://router.xiu.ai/)** | Independent / XiuLab Inc | Usage-based prepaid | — | Managed multi-model API with OpenAI Responses and Chat Completions, Anthropic Messages, and Gemini GenerateContent interfaces, scoped API keys, and per-request usage and cost records. |
 
 ---
 
