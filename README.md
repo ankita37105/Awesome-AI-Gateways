@@ -71,6 +71,7 @@ Not sure where to start? Use this quick guide:
 | **[Prism API](https://github.com/go165/prism-api-promo)** | Independent gateway | Usage-based | Google signup trial balance | Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options. |
 | **[RunAPI](https://runapi.ai)** | Independent gateway | Usage-based | — | OpenAI-compatible gateway for running image, video, music/audio, and model API jobs from one endpoint. |
 | **[XiuRouter](https://router.xiu.ai/)** | Independent / XiuLab Inc | Usage-based prepaid | — | Managed multi-model API with OpenAI Responses and Chat Completions, Anthropic Messages, and Gemini GenerateContent interfaces, scoped API keys, and per-request usage and cost records. |
+| **[TeamoRouter](https://teamorouter.com/blogs/gpt-6-astra-what-is)** | Independent gateway | Paid (usage-based prepaid) | — | Hosted multi-model gateway with agentic routing for coding agents, OpenAI/Anthropic/Gemini-compatible endpoints, and `gpt-6-astra` access (1.05M-token context), with Alipay payment support. |
 
 ---
 
