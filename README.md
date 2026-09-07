@@ -96,6 +96,9 @@ Not sure where to start? Use this quick guide:
 - **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** [![Stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers) 🧩  
   Open-source core of Portkey with powerful routing, observability, and guardrails capabilities.
 
+- **[Bifrost](https://github.com/maximhq/bifrost)** [![Stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social&color=white)](https://github.com/maximhq/bifrost/stargazers) 🚦<br>
+  Go-native OpenAI-compatible AI gateway with multi-provider routing, failover, guardrails, usage controls, MCP support, and observability.
+
 - **[OpenRouter Self-Hosted](https://github.com/search?q=openrouter+self+hosted)** 🏠  
   Community self-hosted routers inspired by OpenRouter with multi-provider support.
 
